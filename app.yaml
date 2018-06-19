@@ -1,0 +1,7 @@
+app:
+  releaseMode: false
+  port: 8000
+  chaincodePath: chaincode
+  tlsCertPath: 1_mathojtry.liyuanye.club_bundle.crt
+  tlsKeyPath: 2_mathojtry.liyuanye.club.key
+  token: f63d1a26-6ed3-11e8-9f0b-ff73e95c8ddb
